@@ -1,5 +1,5 @@
 Building a Cloud Chatbot using AWS Bedrock
-AWS | Community | Build Your Own Advanced AI Chatbot with AWS Bedrock!
+Build Your Own Advanced AI Chatbot with AWS Bedrock!
 
 Setting Up Your Environment
 Prerequisites Before we start, ensure you have the following:
